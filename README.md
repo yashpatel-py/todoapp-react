@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# I have removed firebase config code due to security reasons
+### I have removed firebase config code due to security reasons
 
 ## To create Firebase data base
 + go to [firebase]
